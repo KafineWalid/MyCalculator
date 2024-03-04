@@ -1,0 +1,16 @@
+C:\Users\prins\Downloads\Nouveau dossier\MyCalculator\obj\Debug\net8.0-windows\MyCalculator.Form1.resources
+C:\Users\prins\Downloads\Nouveau dossier\MyCalculator\obj\Debug\net8.0-windows\MyCalculator.vbproj.GenerateResource.cache
+C:\Users\prins\Downloads\Nouveau dossier\MyCalculator\obj\Debug\net8.0-windows\MyCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\prins\Downloads\Nouveau dossier\MyCalculator\obj\Debug\net8.0-windows\MyCalculator.AssemblyInfoInputs.cache
+C:\Users\prins\Downloads\Nouveau dossier\MyCalculator\obj\Debug\net8.0-windows\MyCalculator.AssemblyInfo.vb
+C:\Users\prins\Downloads\Nouveau dossier\MyCalculator\obj\Debug\net8.0-windows\MyCalculator.vbproj.CoreCompileInputs.cache
+C:\Users\prins\Downloads\Nouveau dossier\MyCalculator\bin\Debug\net8.0-windows\MyCalculator.exe
+C:\Users\prins\Downloads\Nouveau dossier\MyCalculator\bin\Debug\net8.0-windows\MyCalculator.deps.json
+C:\Users\prins\Downloads\Nouveau dossier\MyCalculator\bin\Debug\net8.0-windows\MyCalculator.runtimeconfig.json
+C:\Users\prins\Downloads\Nouveau dossier\MyCalculator\bin\Debug\net8.0-windows\MyCalculator.dll
+C:\Users\prins\Downloads\Nouveau dossier\MyCalculator\bin\Debug\net8.0-windows\MyCalculator.pdb
+C:\Users\prins\Downloads\Nouveau dossier\MyCalculator\obj\Debug\net8.0-windows\MyCalculator.dll
+C:\Users\prins\Downloads\Nouveau dossier\MyCalculator\obj\Debug\net8.0-windows\refint\MyCalculator.dll
+C:\Users\prins\Downloads\Nouveau dossier\MyCalculator\obj\Debug\net8.0-windows\MyCalculator.pdb
+C:\Users\prins\Downloads\Nouveau dossier\MyCalculator\obj\Debug\net8.0-windows\MyCalculator.genruntimeconfig.cache
+C:\Users\prins\Downloads\Nouveau dossier\MyCalculator\obj\Debug\net8.0-windows\ref\MyCalculator.dll
